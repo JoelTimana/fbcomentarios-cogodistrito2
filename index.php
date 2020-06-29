@@ -23,7 +23,7 @@ define('conf_appid','307829177273358');
 define('conf_appsecret','4cc92c26ad2ff20d9c4c12247e331a67');
 
 define('conf_fanpage','458131934379710');
-define('conf_fanpagetoken','EAAEXZBBDDTA4BANS5fx0ZBKidH4bkGO12ZCOaLBEF5u6eIwoZClTck3AmwZCZAEspMu2fSdZCpNkxZCAILscdJij2UDTKXvT18d2bXRguGhdMs2xewIlztLVIvv1qRtUZAUaBlkJTAp3rsFV4yiyxn5ZCBajGL1L70ZAsZBD7fpjBoxZCMZCqZB6qS28y0t53RD7MbzY8B8YGqW6FQ1vqVueC6W3bggTDnodJhH9JUqBFoiPbnQcwZDZD');
+define('conf_fanpagetoken','EAAEXZBBDDTA4BABjZC1to51F33cQzmZB0o5uIUfkZCOsr6xWnt1KOAwuWg2I5ftMDAsGtszm5ny7FIiQK2uvJrLxbrbZACYDTGTf5rzlv3lWPb0BYZCRii6VNbB2pvfwC4m14n48FjXZB5GKqIWfG94YhXMCHXZCslOwEanaKRtumwZDZD');
 
 //Inicializamos la clase.
 $fb = new Facebook\Facebook([
